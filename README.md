@@ -4,8 +4,8 @@
     </a>
 </div>
 <h1 align="center">Dark Castle for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="https://www.ibm.com/support/pages/ibm-i-access-client-solutions" target="_blank">
+    IBM i Green Screen
     </a>
 </h1>
 <p align="center">
